@@ -1,2 +1,2 @@
 # UML
-Autor Hubert Langier
+Autor: Hubert Langier
